@@ -1,24 +1,12 @@
 {
-  "name": "threestrikers",
+  "name": "three-strikers",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Three Strikers HTML game",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "serve -s ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/takshaktechteam/Threestrikers.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/takshaktechteam/Threestrikers/issues"
-  },
-  "homepage": "https://github.com/takshaktechteam/Threestrikers#readme",
   "dependencies": {
-    "serve": "^14.2.4"
+    "serve": "^14.2.0"
   }
 }

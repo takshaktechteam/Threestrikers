@@ -1,5 +1,7 @@
 {
-  "build": {
-    "builder": "static"
+  "root": "./",
+  "clean_urls": false,
+  "routes": {
+    "/**": "index.html"
   }
 }

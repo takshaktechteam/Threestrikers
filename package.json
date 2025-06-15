@@ -1,0 +1,24 @@
+{
+  "name": "threestrikers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takshaktechteam/Threestrikers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/takshaktechteam/Threestrikers/issues"
+  },
+  "homepage": "https://github.com/takshaktechteam/Threestrikers#readme",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
